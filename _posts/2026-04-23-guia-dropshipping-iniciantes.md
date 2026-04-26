@@ -4,7 +4,7 @@ date: 2026-04-24 09:00:00 +0000
 categories: [Carreira, Renda Extra]
 tags: [trabalho remoto, home office, emprego]
 image:
-  path: /assets/img/posts/trabalho-remoto.jpg.jpg
+  path: /assets/img/posts/trabalho-remoto.jpg
   alt: Escritório em casa com computador
 ---
 
