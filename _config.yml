@@ -1,16 +1,11 @@
 # The Site Configuration
 
-# Import the theme
-theme: light
-
+# Language & Timezone
 lang: pt
-
 timezone: Africa/Maputo
 
-title: Meu Blog # the main title
-
-tagline: Artigos, dicas e muito mais # it will display as the subtitle
-
+title: Meu Blog # o título principal
+tagline: Artigos, dicas e muito mais # o subtítulo
 description: >-
   Blog com artigos sobre tecnologia, dicas úteis e muito mais.
 
@@ -56,7 +51,8 @@ analytics:
 pageviews:
   provider:
 
-theme_mode: dark
+# MUDANÇA AQUI: Forçar o fundo branco
+theme_mode: light
 
 cdn:
 
