@@ -4,7 +4,7 @@ date: 2026-04-26 14:00:00 +0000
 categories: [Negócios, Dicas]
 tags: [renda extra, finanças, trabalho online]
 image:
-  path: /assets/img/posts/renda-extra-2026.jpg
+  path: /assets/img/posts/renda-extra-2026.jpg.jpg
   alt: 5 Melhores formas de ganhar renda extra em 2026
 ---
 
